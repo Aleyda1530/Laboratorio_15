@@ -5,4 +5,3 @@ var secciones = document.querySelectorAll("section");
 for (var i = 0; i < secciones.length; i++){
     secciones[i].setAttribute("data-index" , i);
 }
-console.log(secciones);
