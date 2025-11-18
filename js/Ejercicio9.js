@@ -2,5 +2,5 @@
 // Autor : Aleyda Quispe
 
 var nuevoParrafo = document.createElement("p");
-nuevoParrafo.textContent="Este es el nuevo elemento";
+nuevoParrafo.textContent="Elemento insertado con JS";
 document.body.appendChild(nuevoParrafo);
