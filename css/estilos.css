@@ -5,3 +5,10 @@
 .oculto {
     display: none;
 }
+
+div {
+    width: 150px;
+    height: 80px;
+    margin: 10px;
+    border: 1px solid darkmagenta;
+}
